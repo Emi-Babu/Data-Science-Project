@@ -4,12 +4,6 @@
 <a href="https://github.com/Harmeet2504/full-stack-web-app-project/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Harmeet2504/full-stack-web-app-project"></a>
 <a href="https://github.com/Harmeet2504/full-stack-web-app-project"><img alt="GitHub license" src="https://img.shields.io/github/license/Harmeet2504/full-stack-web-app-project?color=red"></a>
 
-## Group Members
-* Mary Brown
-* Malini Murthy
-* Harmeet Kaur
-* Emi Babu 
-
 ## Summary
 
 This is an internactive Web Dashboard of US death rates and death causes (per 100,000 in population) for every state in the United States for 8 years (2010-2017) based on data from the Center for Disease Control (CDC), supplemented with data for state coordinates and state codes.
